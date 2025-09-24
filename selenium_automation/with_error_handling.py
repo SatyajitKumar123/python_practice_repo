@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 web = 'https://www.thesun.co.uk/sport/football/'
-path = r"C:\Users\Satya\.cache\selenium\chromedriver\win64\140.0.7339.185\chromedriver.exe"
+path = r"C:\Users\****\****\selenium\chromedriver\win64\140.0.7339.185\chromedriver.exe"
 
 # Creating the driver
 driver_service = Service(executable_path=path)
